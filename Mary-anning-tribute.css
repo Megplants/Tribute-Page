@@ -1,0 +1,44 @@
+.picture {background-color: #D68910;
+padding: 13px;
+margin-top: 20px;}
+img {display: block;
+max-width: 100%;
+height: auto;
+}
+
+figcaption {font-size: 0.75em;}
+body {text-align: center;
+background-color: #F8C471;
+font-family: Spectral, serif;
+}
+.title {color: #7E5109;
+  background-color: #FAD7A0;
+border: 10px solid #D68910;
+display: flex;
+flex-direction: column;
+align-items: center;
+max-width: 100%;
+height: 100px;
+justify-content: center;
+margin: 40 0 0;}
+
+h1 { font-size: 50px;
+margin: 0;
+}
+h2 {margin: 3px;}
+p, h3, li {font-family: Garamond, sans-serif;}
+.info {margin: 50px 20px 5px;
+background-color: #FAD7A0;
+padding: 10px 30px;
+text-align: justify;
+border-bottom: 5px solid #D68910;}
+.intro, .early, .discoveries, .later  {border-bottom: 5px solid #D68910;}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 15px 0 ;
+}
+ul li {
+  padding: 10px 12px;
+}
+.intro {text-align: block;}
